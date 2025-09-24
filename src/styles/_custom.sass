@@ -55,6 +55,97 @@ figcaption
   background-repeat: no-repeat
   background-position: center top
   background-size: cover
-  
+
   @media screen and (min-width: $bp-min-xl)
     padding-right: 100px !important
+  
+  &--1
+    background-image: url("../assets/curso/temas/tema4/bg-2.png")
+
+.bg-cuadros
+  background-image: url("../assets/curso/temas/tema4/bg-3.png")
+  background-repeat: no-repeat
+  background-position: center top
+  background-size: cover
+  &--1
+    background-image: url("../assets/curso/temas/tema4/bg-4.png")
+  &--2
+    background-image: url("../assets/curso/temas/tema4/bg-5.png")
+  &--3
+    background-image: url("../assets/curso/temas/tema4/bg-6.png")
+
+.z-2
+  position: relative
+  z-index: 2
+
+.banner-text
+  background-color: $white
+  border-radius: 10px
+  padding: 20px 30px
+  margin-top: -40px
+
+@media (min-width: 992px)
+  .banner-text
+    margin-top: -100px
+
+.drop-shadow
+  filter: drop-shadow(0px 2px 2px #00000020)
+
+.accesibilidad
+  z-index: 3
+
+.fullwidth-bg
+  position: relative
+  z-index: 0
+
+  &--1::after
+    top: -100px
+    left: -60px
+    position: absolute
+    content: url('../assets/curso/temas/tema4/bg-1.png')
+
+    @media (max-width: 450px)
+      display: none
+
+ul
+  list-style-type: disc
+  padding-left: 20px
+
+.w-140
+  max-width: 140px
+
+.tabs-a__tab
+  background-color: #E8F4FF
+.tabs-a__content-item
+  height: 93%
+  border-radius: 10px
+
+.tabs-a__content-item
+  background-color: #E8F4FF
+
+// .slider-wrapper
+//   position: relative
+//   .bg-orange
+//     background-image: url(../assets/curso/temas/tema4/bg-slider.png)
+//     background-position: center
+//     background-size: cover
+//     position: absolute
+//     top: -20px
+//     left: -60px
+//     bottom: -20px
+//     right: -60px
+//     width: calc( 100% + 168px  )
+//     height: calc( 100% + 40px  )
+
+//   .slyder-a__btn--atrs, .slyder-a__btn--sigt
+//     background-color: $color-acento-botones
+//     border-color: $color-acento-botones
+//     background-image: url(../assets/bullets/arrow-white.svg)
+
+
+//   .slyder-a__bullets__item
+//     background-color: #F8AA5E
+//     border-color: #F8AA5E
+//     opacity: 0.5
+//     &--active
+//       opacity: 1

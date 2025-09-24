@@ -23,6 +23,7 @@
     .video.mb-2
       iframe(width="560" height="315" src="https://www.youtube.com/embed/0YAXjTBhUCg" title="Público Objetivo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
     figcaption <strong>Video:</strong> Público Objetivo.
+    
 </template>
 
 <script>
