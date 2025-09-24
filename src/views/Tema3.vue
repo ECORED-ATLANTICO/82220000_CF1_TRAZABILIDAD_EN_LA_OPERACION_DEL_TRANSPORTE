@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Tema 3
+      h1 Operación del transporte
 
 </template>
 

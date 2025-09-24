@@ -53,7 +53,7 @@
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-xl-10
-        .p-4.py-lg-0.bg-decorado.bg-cuadros--2.rounded-4.overflow-hidden
+        .p-4.py-lg-0.bg-cuadros.bg-cuadros--2.rounded-4.overflow-hidden
           .row.align-items-center
             .d-none.d-lg-block.col-lg-3
               .d-flex.justify-content-center
