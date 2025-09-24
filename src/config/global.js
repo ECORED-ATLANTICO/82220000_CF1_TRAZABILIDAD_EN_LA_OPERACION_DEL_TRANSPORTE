@@ -1,17 +1,22 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Estructura del sistema de trazabilidad',
+    Description:
+      'Este componente formativo se enfoca en la estructura del sistema de trazabilidad, donde busca identificar y comprender cada uno de sus elementos clave, desde la recolección inicial de datos hasta su almacenamiento y análisis. Se abordarán los diferentes tipos de trazabilidad; la interconexión de cada fase garantiza la visibilidad completa de un producto a lo largo de su cadena de suministro.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.png'),
       },
     ],
   },
@@ -31,13 +36,28 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Transporte',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Concepto',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Tipos',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Características',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Normativas y políticas',
+            hash: 't_1_4',
           },
         ],
       },
@@ -45,14 +65,71 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Características técnicas de la carga',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Tipos de carga, peso y volumen',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Empaque y embalaje',
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Operación del transporte',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Concepto, tipos y características',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Variables y rutas',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Inventarios y procedimientos',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Puntos críticos de la operación',
+            hash: 't_3_4',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Trazabilidad de la operación del transporte',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Concepto e importancia',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Tipos y política',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Sistema de trazabilidad',
+            hash: 't_4_3',
+          },
+        ],
       },
     ],
     subMenu: [
