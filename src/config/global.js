@@ -359,7 +359,7 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Yasmín Maldonado Escobar',
+          nombre: 'Yasmín Andreina Maldonado Escobar',
           cargo: 'Experto temático',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -374,7 +374,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta',
+          nombre: 'Carmen Alicia Martínez Torres',
           cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -384,7 +384,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nelson Ivan Vera Briceño',
+          nombre: 'Alexander Rafael Acosta Bedoya',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
