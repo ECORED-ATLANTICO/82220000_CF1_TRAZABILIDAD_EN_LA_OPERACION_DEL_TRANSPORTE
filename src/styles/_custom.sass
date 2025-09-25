@@ -113,6 +113,9 @@ figcaption
 .bg-primario-p5
   background-color: $color-primario-p5
 
+.bg-color-terciario-t10
+  background-color: $color-terciario-t10
+
 .z-2
   position: relative
   z-index: 2
@@ -155,23 +158,11 @@ ul
 
 .slider-wrapper
   position: relative
-  .bg-orange
-    background-image: url(../assets/curso/temas/tema2/bg-slider.png)
-    background-position: center
-    background-size: cover
-    position: absolute
-    top: -20px
-    left: -60px
-    bottom: -20px
-    right: -60px
-    width: calc( 100% + 168px  )
-    height: calc( 100% + 40px  )
 
   .slyder-a__btn--atrs, .slyder-a__btn--sigt
     background-color: $color-acento-botones
     border-color: $color-acento-botones
     background-image: url(../assets/bullets/arrow-white.svg)
-
 
   .slyder-a__bullets__item
     background-color: #F8AA5E
@@ -227,3 +218,23 @@ ul
       font-size: 20px
     .fa-chevron-right
       font-size: 20px
+
+.slyder-con-background
+  .bg-slyder
+    background-image: url(../assets/curso/temas/tema1/bg-slyder.png)
+    background-position: center
+    background-size: cover
+    background-repeat: no-repeat
+
+  .slyder-a__btn--atrs, .slyder-a__btn--sigt
+    background-color: $color-acento-botones
+    border-color: $color-acento-botones
+    background-image: url(../assets/bullets/arrow-white.svg)
+
+  .slyder-a__bullets__item
+    background-color: $color-terciario
+    border-color: $color-terciario
+
+.boton.barra-avance__boton--regresar
+  span
+    color: $white !important

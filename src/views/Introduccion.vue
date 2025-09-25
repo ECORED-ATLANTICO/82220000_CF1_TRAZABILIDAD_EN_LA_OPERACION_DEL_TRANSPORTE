@@ -13,7 +13,7 @@
         .row.justify-content-center
           .col-sm-8.col-lg-3
             figure
-              img(data-aos="fade-up")(src="@/assets/curso/intro/1.png" alt="Imagen decorativa")
+              img.mb-4.mb-lg-0(data-aos="fade-up")(src="@/assets/curso/intro/1.png" alt="Imagen decorativa")
           .col-lg-9.mb-4.mb-lg-0
             p.mb-0 Este componente también enfatiza en la aplicación de políticas, procedimientos y estándares nacionales e internacionales, con un enfoque en la eficiencia operativa y la sostenibilidad del transporte. Además, promueve el desarrollo de competencias analíticas y el uso de recursos tecnológicos para la toma de decisiones. Así, se contribuye a la formación de profesionales integrales capaces de coordinar operaciones de transporte con visión estratégica.
       .d-none.d-lg-block.col-lg-3
