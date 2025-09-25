@@ -180,10 +180,62 @@
 
     img(data-aos="fade-up")(src="@/assets/curso/temas/tema1/21.png", alt="Imagen decorativa")
 
-    .row.justify-content-center.z-2
+    .row.justify-content-center.z-2.mb-5
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
           p.mb-0 La trazabilidad en el transporte se encuentra regulada por un conjunto de normativas nacionales que buscan garantizar la seguridad vial, el cumplimiento de requisitos técnicos y legales, así como la eficiencia en la gestión logística. Estas normas establecen las bases para la operación segura, la responsabilidad de los actores del sector y la implementación de herramientas de control y seguimiento.
+
+    .fullwidth-bg.fullwidth-bg--4
+    .row.justify-content-center.mb-5.z-2.conectadas-horizontal
+      .col-lg-10.position-relative
+        .avatar.d-none.d-lg-block
+          figure
+            img(src="@/assets/curso/temas/tema1/32.svg", alt="alt").img250
+        .crd.crd--avatarHorizontal.crd--first.py-3
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema1/30.svg", alt="alt").img100
+            .col
+              h5.mb-1 Ley 769 del 2002 Código Nacional de Tránsito
+              p.mb-0 Normas de circulación, licencias, condiciones técnico-mecánicas, infracciones y sanciones.
+
+        .crd.crd--avatarHorizontal.py-3.crd-bg-primario
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema1/31.svg", alt="alt").img100
+            .col
+              h5.mb-1 Decretos y Resoluciones del Ministerio de Transporte 
+              p.mb-0 Regulan peso y dimensiones, habilitación de empresas, permisos, registro de carga y tarifas.
+
+        .crd.crd--avatarHorizontal.py-3
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema1/30.svg", alt="alt").img100
+            .col
+              h5.mb-1 Ley 1609 del 2012 y Decreto 1079 del 2015
+              p.mb-0 Transporte de mercancías peligrosas: clasificación, embalaje, señalización, documentación y condiciones de vehículos.
+
+        .crd.crd--avatarHorizontal.py-3.crd-bg-primario
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema1/31.svg", alt="alt").img100
+            .col
+              h5.mb-1 Ley 336 del 1996 Estatuto Nacional de Transporte
+              p.mb-0 Principios generales para el transporte público, seguridad y responsabilidad en mercancías peligrosas.
+
+        .crd.crd--avatarHorizontal.crd--last.py-3
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema1/30.svg", alt="alt").img100
+            .col
+              h5.mb-1 Ley 2069 del 2020 Ley de Emprendimiento
+              p.mb-0 Promueve la digitalización logística y adopción de trazabilidad tecnológica en la cadena de suministro.
+
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-xl-10

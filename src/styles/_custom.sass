@@ -80,6 +80,15 @@ figcaption
     @media (max-width: 450px)
       display: none
 
+  &--4::after
+    top: 0
+    left: -50px
+    position: absolute
+    content: url('../assets/curso/temas/tema1/bg-1.png')
+
+    @media (max-width: 450px)
+      display: none
+
 .bg-decorado
   background-image: url("../assets/curso/sintesis/bg-1.png")
   background-repeat: no-repeat
@@ -238,3 +247,37 @@ ul
 .boton.barra-avance__boton--regresar
   span
     color: $white !important
+
+.conectadas-horizontal
+  .crd--avatarHorizontal
+    position: relative
+    padding-right: 2rem
+    @media screen and (min-width: $bp-min-lg)
+      padding-right: 18rem
+
+  .crd--avatarHorizontal:before 
+    position: absolute
+    content: ""
+    top: 0
+    right: 0
+    width: calc(100% - 60px)
+    height: 100%
+    background-color: #c5e5fe
+
+  .crd--first:before 
+    border-top-left-radius: 30px
+
+  .avatar
+    position: absolute
+    bottom: 0
+    right: -4rem
+    z-index: 1
+
+  .crd--last:before
+    border-bottom-left-radius: 30px
+
+  .crd--avatarHorizontal>*
+    position: relative
+
+  .crd-bg-primario:before
+    background-color: $color-primario-p5 !important

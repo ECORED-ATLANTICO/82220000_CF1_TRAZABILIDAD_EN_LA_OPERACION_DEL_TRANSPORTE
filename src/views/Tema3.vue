@@ -83,7 +83,56 @@
             .col-sm-11.col-lg-9.ms-auto
               p.mb-0 Las características de la operación determinan el nivel de desempeño logístico y la necesidad de contar con sistemas de trazabilidad robustos. Estas permiten evaluar la efectividad de los procesos y facilitan la toma de decisiones estratégicas.
 
-    //- TODO: Tarjetas conectadas horizontal
+    .row.justify-content-center.mb-5.z-2.conectadas-horizontal
+      .col-lg-10.position-relative
+        .avatar.d-none.d-lg-block
+          figure
+            img(src="@/assets/curso/temas/tema3/37.svg", alt="alt").img250
+        .crd.crd--avatarHorizontal.crd--first.py-3
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema3/35.svg", alt="alt").img100
+            .col
+              h5.mb-1 Eficiencia
+              p.mb-0 Uso óptimo de recursos como tiempo, combustible y capacidad vehicular, detectando cuellos de botella y mejoras.
+
+        .crd.crd--avatarHorizontal.py-3.crd-bg-primario
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema3/36.svg", alt="alt").img100
+            .col
+              h5.mb-1 Flexibilidad
+              p.mb-0 Capacidad de adaptación a cambios imprevistos en rutas, horarios o tipos de carga.
+
+        .crd.crd--avatarHorizontal.py-3
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema3/35.svg", alt="alt").img100
+            .col
+              h5.mb-1 Tiempo de ciclo
+              p.mb-0 Periodo desde la recolección de la carga hasta su entrega final. Es un indicador clave de desempeño.
+
+        .crd.crd--avatarHorizontal.py-3.crd-bg-primario
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema3/36.svg", alt="alt").img100
+            .col
+              h5.mb-1 Confiabilidad
+              p.mb-0 Cumplimiento constante de los compromisos de entrega y preservación de las condiciones de la carga.
+
+        .crd.crd--avatarHorizontal.crd--last.py-3
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema3/35.svg", alt="alt").img100
+            .col
+              h5.mb-1 Adaptabilidad
+              p.mb-0 Respuesta ante factores externos como clima, normativas o interrupciones en la cadena de suministro.
+
 
     Separador
     #t_3_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
