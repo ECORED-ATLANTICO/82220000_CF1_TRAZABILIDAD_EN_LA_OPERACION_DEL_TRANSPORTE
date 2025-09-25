@@ -179,10 +179,26 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: 'Sitio web',
-      link: '',
+      tema: 'Trazabilidad de la operación del transporte.',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (s. f.). <em>Tuteorica.com. Recuperado de https://www.tuteorica.com</em>',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=PUOOkuzzSnM',
+    },
+    {
+      tema: 'Operación del transporte.',
+      referencia:
+        'Ibáñez Neri, A. (s. f.). <em>Alberto Ibañez Neri [Canal de YouTube]. YouTube. Recuperado de https://www.youtube.com/@AlbertoIbanezNeri</em>',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=AMIamNCaUAo',
+    },
+    {
+      tema: 'Trazabilidad de la operación del transporte.',
+      referencia:
+        'Rincón Ballesteros, D. L. (s. f.). <em>Conceptualización de la trazabilidad en la cadena de abastecimiento. Repositorio Institucional Universidad Distrital Francisco José de Caldas.</em>',
+      tipo: 'Manual PDF',
+      link:
+        'https://repository.udistrital.edu.co/server/api/core/bitstreams/6a82fa29-7bfd-4551-9e56-648bdf517720/content',
     },
   ],
   glosario: [
@@ -190,10 +206,135 @@ export default {
       termino: 'Término',
       significado: 'Definición',
     },
+    {
+      termino: 'Carga a granel',
+      significado:
+        'Productos que se transportan sin empaque y en grandes volúmenes, viajando directamente en bodegas, cisternas o tolvas. Su clasificación depende de si son sólidos, líquidos o gaseosos.',
+    },
+
+    {
+      termino: 'Carga completa (FTL)',
+      significado:
+        'Modalidad de operación donde el vehículo transporta exclusivamente la carga de un solo cliente. Simplifica la trazabilidad al centrarse en el seguimiento directo del camión y su entrega única.',
+    },
+
+    {
+      termino: 'Carga crítica',
+      significado:
+        'Mercancía que, por su naturaleza (perecedera, peligrosa o de alto valor), requiere un monitoreo y trazabilidad especialmente rigurosos para mantener su integridad y seguridad.',
+    },
+
+    {
+      termino: 'Carga general',
+      significado:
+        'Mercancías embaladas en cajas, bultos, palets o contenedores. Su manipulación puede hacerse de manera individual o agrupada, lo que facilita la operación y reduce tiempos logísticos.',
+    },
+
+    {
+      termino: 'Carga parcial (LTL)',
+      significado:
+        'Modalidad de operación donde se consolidan cargas de distintos clientes en un mismo vehículo. Requiere trazabilidad más detallada por paquete o bulto en cada punto de transbordo y consolidación.',
+    },
+
+    {
+      termino: 'Embalaje',
+      significado:
+        'Material o estructura externa que protege el producto o conjunto de productos para su transporte y almacenamiento. Permite agrupar unidades y facilita la aplicación de identificadores de trazabilidad a nivel logístico.',
+    },
+
+    {
+      termino: 'Empaque',
+      significado:
+        'Contenedor o envoltorio primario que está en contacto directo con el producto, diseñado para protegerlo y presentarlo. A menudo lleva la identificación para la trazabilidad a nivel de unidad de consumo.',
+    },
+
+    {
+      termino: 'Procedimientos Operativos Estándar (POEs)',
+      significado:
+        'Instrucciones documentadas que orientan cada tarea crítica en la operación de transporte, fortaleciendo la trazabilidad al garantizar consistencia en la captura de datos y reducir errores.',
+    },
+
+    {
+      termino: 'Puntos Críticos de Control (PCC)',
+      significado:
+        'Puntos específicos en la cadena de suministro o en la operación donde es esencial aplicar un control para evitar, eliminar o reducir un riesgo a un nivel aceptable. Son nodos clave para la captura de datos de trazabilidad.',
+    },
+
+    {
+      termino: 'Trazabilidad',
+      significado:
+        'Capacidad de reconstruir el historial, el recorrido y la ubicación de un producto o lote a lo largo de toda la cadena de suministro. Permite conocer su origen (trazabilidad hacia atrás) y su destino (trazabilidad hacia adelante).',
+    },
+
+    {
+      termino: 'Trazabilidad bidireccional',
+      significado:
+        'Capacidad de seguir el rastro de un producto tanto hacia adelante (desde el origen hasta el consumidor) como hacia atrás (desde el consumidor hasta su origen), conectando todos los eslabones de la cadena de suministro.',
+    },
+
+    {
+      termino: 'Transbordo',
+      significado:
+        'Punto crítico de la operación donde la carga cambia de vehículo o de modalidad de transporte. Implica un riesgo alto de pérdida o confusión y exige registros precisos de custodia y estado.',
+    },
+
+    {
+      termino: 'Transporte',
+      significado:
+        'Proceso de movilizar personas, bienes o información, actuando como motor de conectividad y desarrollo. Constituye un pilar de la economía global y de la sociedad moderna.',
+    },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Ballou, R. H. (2004). <em>Logística: Administración de la cadena de suministro. Pearson Education.</em>',
+      link: '',
+    },
+    {
+      referencia:
+        '<em>Bowersox, D. J., Closs, D. J., & Cooper, M. B. (2007). Administración y logística en la cadena de suministros. McGraw Hill.</em>',
+      link: '',
+    },
+    {
+      referencia:
+        '<em>Calatayud, A., & Katz, R. (2019). Cadena de suministro 4.0: Mejores prácticas internacionales y hoja de ruta para América Latina. Banco Interamericano de Desarrollo..</em>',
+      link: '',
+    },
+    {
+      referencia:
+        '<em>Colombia. Congreso de la República. (2002). Ley 769 de 2002: Por la cual se expide el Código Nacional de Tránsito Terrestre y se dictan otras disposiciones. Diario Oficial No. 44.975.</em>',
+      link: '',
+    },
+    {
+      referencia:
+        '<em>Colombia. Congreso de la República. (2012). Ley 1609 de 2012: Por la cual se dictan normas sobre el transporte de mercancías peligrosas por carretera y se dictan otras disposiciones. Diario Oficial No. 48.647.</em>',
+      link: '',
+    },
+    {
+      referencia:
+        '<em>Colombia. Ministerio de Transporte. (2015). Decreto 1079 de 2015: Por medio del cual se expide el Decreto Único Reglamentario del Sector Transporte. Diario Oficial No. 49.529.</em>',
+      link: '',
+    },
+    {
+      referencia:
+        '<em>Maravi Cárdenas, A. J., Zevallos Aquije, A. J., & Palomino Salcedo, K. J. (2023). Gestión de la cadena de suministros. Enfoques y perspectivas modernas. Religación Press.</em>',
+      link:
+        'https://press.religacion.com/index.php/press/catalog/download/102/261/431?inline=1',
+    },
+    {
+      referencia:
+        '<em>Mora García, L. A. (2023). Logística del transporte y distribución de carga (2.ª ed.). Ecoe Ediciones.</em>',
+      link:
+        'https://www.ecoeediciones.com/product/logistica-del-transporte-y-distribucion-de-carga-2da-edicion-impreso/',
+    },
+    {
+      referencia:
+        '<em>Organización Marítima Internacional. (última edición vigente). Código Marítimo Internacional de Mercancías Peligrosas (IMDG).</em>',
+      link: '',
+    },
+    {
+      referencia:
+        '<em>Naciones Unidas, Comisión Económica para Europa. (última edición vigente). Acuerdo Europeo relativo al Transporte Internacional de Mercancías Peligrosas por Carretera (ADR).</em>',
       link: '',
     },
   ],
@@ -202,14 +343,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -217,9 +359,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Yasmín Maldonado Escobar',
+          cargo: 'Experto temático',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Heydy Cristina González García',
+          cargo: 'Evaluador instruccional',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -227,19 +374,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Luis Gabriel Urueta',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Fabio Fonseca Arguelles',
+          cargo: 'Desarrollador <i>full stack junior</i>',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Nelson Ivan Vera Briceño',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -247,14 +394,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'María Fernanda Morales Angulo',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jonathan Adie Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jairo Luis Valencia Ebratt',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
