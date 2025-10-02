@@ -124,11 +124,6 @@ export default {
             titulo: 'Tipos y política',
             hash: 't_4_2',
           },
-          {
-            numero: '4.3',
-            titulo: 'Sistema de trazabilidad',
-            hash: 't_4_3',
-          },
         ],
       },
     ],
@@ -163,7 +158,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA1_82220000_DU.pdf',
       },
       {
         icono: 'fas fa-download',

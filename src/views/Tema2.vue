@@ -13,7 +13,7 @@
           img(data-aos="fade-up")(src="@/assets/curso/temas/tema2/1.png" alt="Imagen decorativo")
       .col-lg-8
         p La trazabilidad efectiva depende críticamente de entender las características técnicas de la carga. Factores como el estado físico, la fragilidad, el peso, las dimensiones, y los requisitos de temperatura o humedad, influyen directamente en la selección de métodos de embalaje, manipulación y transporte. 
-        .p-4.bg-decorado.bg-decorado.rounded-4.overflow-hidden
+        .p-4.bg-decorado.bg-decorado--1.rounded-4.overflow-hidden
           p.mb-0 Estas propiedades determinan la tecnología de identificación más adecuada y la información esencial a registrar en cada etapa. Un manejo incorrecto basado en el desconocimiento de estas características puede comprometer la integridad del producto y la fiabilidad de los datos de trazabilidad.
 
     Separador
@@ -28,7 +28,7 @@
         p.mb-0 Los tipos de carga se clasifican según su presentación, naturaleza y condiciones de transporte, aspectos que determinan el manejo logístico, los costos y la trazabilidad en la cadena de suministro. Cada categoría presenta características específicas que permiten optimizar la planificación, garantizar la seguridad y cumplir con los requisitos técnicos y normativos en la operación del transporte.
 
     div.slider-wrapper.z-2.mb-5
-      .bg-orange
+      .bg-fullwidth
       .tarjeta.tarjeta--blanca.p-4.pt-5.z-2.mt-5.mb-3
         SlyderA(tipo="b")
           .row.z-2.justify-content-center

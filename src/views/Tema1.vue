@@ -47,7 +47,7 @@
     .fullwidth-bg.fullwidth-bg--1
     Separador
     #t_1_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 1.2.	Tipos
+      h3 1.2	Tipos
 
     .row.justify-content-center.align-items-center.mb-4.z-2
       .col-sm-8.col-lg-4
@@ -176,7 +176,7 @@
 
     Separador
     #t_1_4(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 1.4.	Normativas y políticas
+      h3 1.4	Normativas y políticas
 
     img(data-aos="fade-up")(src="@/assets/curso/temas/tema1/21.png", alt="Imagen decorativa")
 
@@ -313,7 +313,7 @@
               img(data-aos="fade-down")(src="@/assets/curso/temas/tema1/26.svg" alt="Imagen decorativo")
             .col-lg-10
               h5.mb-1 Normativas de digitalización.	
-              p.mb-0 Promueven plataformas electrónicas, documentos digitales y uso de Big Data en trazabilidad.
+              p.mb-0 Promueven plataformas electrónicas, documentos digitales y uso de <em>Big Data</em> en trazabilidad.
 
     .bloque-texto-g.bloque-texto-g--transparent.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-4.mb-lg-5.z-2
       .bloque-texto-g__img(
@@ -325,7 +325,7 @@
     .row.justify-content-center.align-items-center.z-2
       .col-xl-10
         .titulo-sexto.color-primario.mb-4
-          h5 Figura 1.
+          h5 Figura 2.
           span Tipos de transporte
         img.d-sm-none(data-aos="fade-down")(src='@/assets/curso/temas/tema1/29-mob.svg', alt='La figura presenta las principales políticas empresariales aplicadas a la trazabilidad: estrategias de gestión de flotas, formación del personal en tecnologías y procedimientos, adopción de sistemas tecnológicos como GPS y RFID, y políticas de calidad y seguridad orientadas a certificaciones e integridad de la cadena de suministro.')
         img.d-none.d-sm-block(data-aos="fade-down")(src='@/assets/curso/temas/tema1/29.svg', alt='La figura presenta las principales políticas empresariales aplicadas a la trazabilidad: estrategias de gestión de flotas, formación del personal en tecnologías y procedimientos, adopción de sistemas tecnológicos como GPS y RFID, y políticas de calidad y seguridad orientadas a certificaciones e integridad de la cadena de suministro.')
