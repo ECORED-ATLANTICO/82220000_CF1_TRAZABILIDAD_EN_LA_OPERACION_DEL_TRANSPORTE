@@ -34,7 +34,7 @@
           .row.z-2.justify-content-center
             .col-lg-5
               h4.mb-4 Carga  general
-              p.mb-3.mb-lg-0 Incluye mercancías embaladas en cajas, bultos, palets o contenedores. Su manipulación puede hacerse de manera individual o agrupada, lo que facilita la operación y reduce tiempos logísticos.
+              p.mb-3.mb-lg-0 Incluye mercancías embaladas en cajas, bultos, <em>palets</em> o contenedores. Su manipulación puede hacerse de manera individual o agrupada, lo que facilita la operación y reduce tiempos logísticos.
             .col-10.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema2/3.png', alt='Persona moviendo bolsas de carga ')
@@ -129,7 +129,7 @@
           .col-md-9
             h4 Embalaje
             p El embalaje es el conjunto de materiales y procedimientos diseñados para proteger los productos durante su manipulación, almacenamiento y transporte. Su propósito principal es garantizar la seguridad e integridad de la carga, evitando daños físicos, pérdidas o alteraciones. 
-            p Incluye elementos como cajas, palets, cintas adhesivas, plásticos protectores y sistemas de sujeción, que permiten organizar las mercancías de manera adecuada, optimizar el espacio y facilitar su traslado hasta el destino final en condiciones óptimas.
+            p Incluye elementos como cajas, <em>palets</em>, cintas adhesivas, plásticos protectores y sistemas de sujeción, que permiten organizar las mercancías de manera adecuada, optimizar el espacio y facilitar su traslado hasta el destino final en condiciones óptimas.
 
 
 

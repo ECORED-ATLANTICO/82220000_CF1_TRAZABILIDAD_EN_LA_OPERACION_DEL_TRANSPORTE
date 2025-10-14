@@ -23,7 +23,7 @@
     .row.justify-content-center.mb-5
       .col-auto
         figure
-          img.mb-5(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img.mb-5(src="@/assets/curso/sintesis.svg", alt="En el diagrama se ilustra la estructura del sistema de trazabilidad mostrando sus diferentes elementos, tales como el transporte, las características técnicas de la carga la operación del transporte y la trazabilidad de la operación del transporte incluyendo todos los puntos críticos y fundamentales del proceso.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

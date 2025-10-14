@@ -222,7 +222,7 @@ export default {
     {
       termino: 'Carga general',
       significado:
-        'Mercancías embaladas en cajas, bultos, palets o contenedores. Su manipulación puede hacerse de manera individual o agrupada, lo que facilita la operación y reduce tiempos logísticos.',
+        'Mercancías embaladas en cajas, bultos, <em>palets</em> o contenedores. Su manipulación puede hacerse de manera individual o agrupada, lo que facilita la operación y reduce tiempos logísticos.',
     },
 
     {
@@ -244,7 +244,7 @@ export default {
     },
 
     {
-      termino: 'Procedimientos Operativos Estándar (POEs)',
+      termino: 'Procedimientos Operativos Estándar (POES)',
       significado:
         'Instrucciones documentadas que orientan cada tarea crítica en la operación de transporte, fortaleciendo la trazabilidad al garantizar consistencia en la captura de datos y reducir errores.',
     },

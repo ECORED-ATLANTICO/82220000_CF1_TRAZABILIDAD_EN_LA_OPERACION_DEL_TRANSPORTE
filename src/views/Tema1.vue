@@ -197,7 +197,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/30.svg", alt="alt").img100
             .col
-              h5.mb-1 Ley 769 del 2002 Código Nacional de Tránsito
+              h5.mb-1 Ley 769 de 2002 Código Nacional de Tránsito
               p.mb-0 Normas de circulación, licencias, condiciones técnico-mecánicas, infracciones y sanciones.
 
         .crd.crd--avatarHorizontal.py-3.crd-bg-primario
@@ -215,7 +215,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/30.svg", alt="alt").img100
             .col
-              h5.mb-1 Ley 1609 del 2012 y Decreto 1079 del 2015
+              h5.mb-1 Ley 1609 de 2012 y Decreto 1079 del 2015
               p.mb-0 Transporte de mercancías peligrosas: clasificación, embalaje, señalización, documentación y condiciones de vehículos.
 
         .crd.crd--avatarHorizontal.py-3.crd-bg-primario
@@ -224,7 +224,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/31.svg", alt="alt").img100
             .col
-              h5.mb-1 Ley 336 del 1996 Estatuto Nacional de Transporte
+              h5.mb-1 Ley 336 de 1996 Estatuto Nacional de Transporte
               p.mb-0 Principios generales para el transporte público, seguridad y responsabilidad en mercancías peligrosas.
 
         .crd.crd--avatarHorizontal.crd--last.py-3
@@ -233,7 +233,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/30.svg", alt="alt").img100
             .col
-              h5.mb-1 Ley 2069 del 2020 Ley de Emprendimiento
+              h5.mb-1 Ley 2069 de 2020 Ley de Emprendimiento
               p.mb-0 Promueve la digitalización logística y adopción de trazabilidad tecnológica en la cadena de suministro.
 
 

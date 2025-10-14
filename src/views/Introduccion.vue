@@ -21,8 +21,8 @@
           img.mb-4.mb-lg-0(data-aos="fade-up")(src="@/assets/curso/intro/2.png" alt="Icono decorativa")
 
     .video.mb-2
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/0YAXjTBhUCg" title="Público Objetivo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
-    figcaption <strong>Video:</strong> Público Objetivo.
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/3ADxg8cRDfs" title="Estructura del sistema de trazabilidad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
+    figcaption <strong>Video:</strong> Estructura del sistema de trazabilidad.
     
 </template>
 

@@ -213,7 +213,7 @@
         figure
           img(data-aos="fade-up")(src="@/assets/curso/temas/tema3/18.svg" alt="Icono decorativo")
       .col-lg-11
-        p Asimismo, los procedimientos operativos estándar (POEs) aseguran uniformidad y confiabilidad en la recolección y validación de datos, fortaleciendo la calidad de la información y el cumplimiento normativo.
+        p Asimismo, los procedimientos operativos estándar (POES) aseguran uniformidad y confiabilidad en la recolección y validación de datos, fortaleciendo la calidad de la información y el cumplimiento normativo.
         p.mb-0 Los inventarios en tránsito se refieren a los productos que ya salieron del almacén de origen, pero aún no han llegado a su destino final, lo que permite controlar: 
 
     .row.justify-content-center.align-items-stretch.mb-4.z-2
@@ -229,7 +229,7 @@
           .row.justify-content-end
             .col-4.col-xl-3
               img.mb-4(data-aos="fade-down")(src="@/assets/curso/temas/tema3/20.svg" alt="Imagen decorativo")
-          h5.mb-1 Control de stock	
+          h5.mb-1 Control de <em>stock</em>	
           p.mb-3 Gestiona y contabiliza inventario fuera de bodega como activo empresarial.
 
       .col-md-6.col-lg-4.mb-4.mb-xl-0
@@ -248,7 +248,7 @@
               .d-flex.justify-content-center
                 img.w-140(data-aos="fade-up")(src="@/assets/curso/temas/tema3/22.png" alt="Imagen decorativo")
             .col-sm-11.col-lg-9.ms-auto
-              p.mb-0 En cuanto a los Procedimientos Operativos Estándar (POEs), son instrucciones documentadas que orientan cada tarea crítica en la operación de transporte, fortaleciendo la trazabilidad.
+              p.mb-0 En cuanto a los Procedimientos Operativos Estándar (POES), son instrucciones documentadas que orientan cada tarea crítica en la operación de transporte, fortaleciendo la trazabilidad.
 
     .row.justify-content-center.align-items-stretch.mb-4.z-2
       .col-xl-8

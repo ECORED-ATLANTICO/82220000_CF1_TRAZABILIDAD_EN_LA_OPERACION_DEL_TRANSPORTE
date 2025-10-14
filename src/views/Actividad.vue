@@ -213,7 +213,7 @@ export default {
         {
           id: 9,
           texto:
-            'Los procedimientos operativos estándar (POEs) aseguran la consistencia en la captura de datos de trazabilidad.',
+            'Los procedimientos operativos estándar (POES) aseguran la consistencia en la captura de datos de trazabilidad.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -374,7 +374,7 @@ export default {
         {
           id: 16,
           texto:
-            'Los Procedimientos Operativos Estándar (POE) reducen errores humanos al estandarizar la captura de datos en la operación.',
+            'Los Procedimientos Operativos Estándar (POES) reducen errores humanos al estandarizar la captura de datos en la operación.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
