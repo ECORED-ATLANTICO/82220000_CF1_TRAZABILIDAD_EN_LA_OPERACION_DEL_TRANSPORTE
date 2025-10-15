@@ -64,8 +64,8 @@
     .row.justify-content-center.align-items-stretch.mb-4.z-2
       .col-xl-10
         TabsA.color-primario
-          .tarjeta.p-4.h-100.d-flex.align-items-center(titulo="Hacia  atrás (<em>Upstream</em>)")
-            p.mb-4.mb-lg-0 Los consumidores tienden a preferir productos que ofrezcan facilidad de uso, eficiencia en su desempeño y soluciones prácticas que respondan de manera efectiva a sus requerimientos diarios
+          .tarjeta.p-4.h-100.d-flex.align-items-center(titulo="Hacia atrás (<em>Upstream</em>)")
+            p.mb-4.mb-lg-0 Conoce el origen de productos y componentes: proveedores, lotes y fechas de recepción. Importante para el control de calidad en la entrada y reacción rápida ante problemas con proveedores.
 
           .tarjeta.p-4.h-100.d-flex.align-items-center(titulo="Interna (Proceso)")
             p.mb-4.mb-lg-0 Registra transformaciones, movimientos, embalajes, consolidaciones o desconsolidaciones. Mantiene historial preciso del producto bajo custodia e identifica lotes y mezclas.

@@ -198,10 +198,6 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
-    },
-    {
       termino: 'Carga a granel',
       significado:
         'Productos que se transportan sin empaque y en grandes volúmenes, viajando directamente en bodegas, cisternas o tolvas. Su clasificación depende de si son sólidos, líquidos o gaseosos.',
