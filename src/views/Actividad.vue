@@ -29,7 +29,7 @@ export default {
         {
           id: 1,
           texto:
-            'El concepto de transporte se limita únicamente al desplazamiento físico de mercancías',
+            'El concepto de transporte se limita únicamente al desplazamiento físico de mercancías.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -144,7 +144,7 @@ export default {
         {
           id: 6,
           texto:
-            'El embalaje es el envoltorio primario que está en contacto directo con el producto',
+            'El embalaje es el envoltorio primario que está en contacto directo con el producto.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -289,12 +289,12 @@ export default {
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: true,
+              esCorrecta: false,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: false,
+              esCorrecta: true,
             },
           ],
           mensaje_correcto:
@@ -328,7 +328,7 @@ export default {
         {
           id: 14,
           texto:
-            'La trazabilidad interna registra cada transformación, movimiento, embalaje o consolidación de la mercancía dentro del proceso logístico',
+            'La trazabilidad interna registra cada transformación, movimiento, embalaje o consolidación de la mercancía dentro del proceso logístico.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

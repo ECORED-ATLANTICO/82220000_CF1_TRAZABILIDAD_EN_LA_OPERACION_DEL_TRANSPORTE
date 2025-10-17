@@ -64,13 +64,13 @@
     .row.justify-content-center.align-items-stretch.mb-4.z-2
       .col-xl-10
         TabsA.color-primario
-          .tarjeta.p-4.h-100.d-flex.align-items-center(titulo="Hacia atrás (<em>Upstream</em>)")
+          .tarjeta.p-4.h-100.d-flex.align-items-center(titulo="Hacia atrás (<em>upstream</em>)")
             p.mb-4.mb-lg-0 Conoce el origen de productos y componentes: proveedores, lotes y fechas de recepción. Importante para el control de calidad en la entrada y reacción rápida ante problemas con proveedores.
 
-          .tarjeta.p-4.h-100.d-flex.align-items-center(titulo="Interna (Proceso)")
+          .tarjeta.p-4.h-100.d-flex.align-items-center(titulo="Interna (proceso)")
             p.mb-4.mb-lg-0 Registra transformaciones, movimientos, embalajes, consolidaciones o desconsolidaciones. Mantiene historial preciso del producto bajo custodia e identifica lotes y mezclas.
 
-          .tarjeta.p-4.h-100.d-flex.align-items-center(titulo="Hacia adelante (<em>Downstream</em>)")
+          .tarjeta.p-4.h-100.d-flex.align-items-center(titulo="Hacia adelante (<em>downstream</em>)")
             p.mb-4.mb-lg-0 Rastrea el destino de los productos al salir de la empresa. Fundamental para servicio al cliente, gestión de entregas y localización rápida ante problemas.
 
     .row.justify-content-center.mb-4.z-2.mb-xl-5
@@ -84,14 +84,14 @@
           .row.justify-content-end
             .col-3.col-md-4
               img.mb-5(data-aos="fade-down")(src="@/assets/curso/temas/tema4/6.svg" alt="Imagen decorativo")
-          h5.mb-0 Obligatorias  (Regulaciones legales)
+          h5.mb-0 Obligatorias (regulaciones legales)
           p.mb-0 Establecidas por gobiernos o entidades internacionales para proteger la salud, la seguridad, el medio ambiente y prevenir fraudes.
       .col-md-6.col-lg-4.col-xl-3.mb-4.mb-lg-0
         .p-4.bg-cuadros.bg-cuadros--3.rounded-4.overflow-hidden.h-100
           .row.justify-content-end
             .col-3.col-md-4
               img.mb-5(data-aos="fade-down")(src="@/assets/curso/temas/tema4/7.svg" alt="Imagen decorativo")
-          h5.mb-0 Voluntarias (Buenas prácticas)	
+          h5.mb-0 Voluntarias (buenas prácticas)	
           p.mb-0 Adoptadas por empresas o consorcios para mejorar eficiencia, reputación, confianza del consumidor y sostenibilidad.
       .col-md-6.col-lg-4
         figure

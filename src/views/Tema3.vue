@@ -59,7 +59,7 @@
             .row.justify-content-end.mb-3
               .col-4
                 img.factores-slider__icon.mb-4(src='@/assets/curso/temas/tema3/6.svg' alt='Ilustacion de acompañamiento')
-            h4.mb-1 Distribución urbana / Última milla.
+            h4.mb-1 Distribución urbana / última milla.
             p.mb-4 Etapa final de entrega en zonas urbanas, con alta densidad de destinos. Exige precisión y coordinación con los clientes.
 
           .tarjeta.bg-cuadros.bg-cuadros--5.px-4.pt-5.factores-slider__tarjeta
