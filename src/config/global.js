@@ -176,14 +176,14 @@ export default {
     {
       tema: 'Trazabilidad de la operación del transporte.',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (s. f.). <em>Tuteorica.com. Recuperado de https://www.tuteorica.com</em>',
+        'Ecosistema de Recursos Educativos Digitales SENA. (s. f.). <em>Tuteorica.com. Recuperado de <a href="https://www.tuteorica.com">https://www.tuteorica.com</a></em>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=PUOOkuzzSnM',
     },
     {
       tema: 'Operación del transporte.',
       referencia:
-        'Ibáñez Neri, A. (s. f.). <em>Alberto Ibañez Neri [Canal de YouTube]. YouTube. Recuperado de https://www.youtube.com/@AlbertoIbanezNeri</em>',
+        'Ibáñez Neri, A. (s. f.). <em>Alberto Ibañez Neri [Canal de YouTube]. YouTube. Recuperado de <a href="https://www.youtube.com/@AlbertoIbanezNeri">https://www.youtube.com/@AlbertoIbanezNeri</a></em>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=AMIamNCaUAo',
     },
@@ -351,12 +351,12 @@ export default {
       autores: [
         {
           nombre: 'Yasmín Andreina Maldonado Escobar',
-          cargo: 'Experto temático',
+          cargo: 'Experta temática',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Heydy Cristina González García',
-          cargo: 'Evaluador instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],

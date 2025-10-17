@@ -15,7 +15,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9
         .p-4.bg-decorado.rounded-4.overflow-hidden
-          p.mb-0 Asimismo, se analizan las variables de la operación del transporte, proporcionando herramientas para la planificación de rutas, la gestión de inventarios y la identificación de puntos críticos. Se presentan los tipos de trazabilidad que influyen en el control y seguimiento de los productos, así como las políticas obligatorias y voluntarias que respaldan su aplicación. La documentación aborda también los elementos técnicos de un sistema de trazabilidad efectivo .
+          p.mb-0 Asimismo, se analizan las variables de la operación del transporte, proporcionando herramientas para la planificación de rutas, la gestión de inventarios y la identificación de puntos críticos. Se presentan los tipos de trazabilidad que influyen en el control y seguimiento de los productos, así como las políticas obligatorias y voluntarias que respaldan su aplicación. La documentación aborda también los elementos técnicos de un sistema de trazabilidad efectivo.
       .d-none.d-lg-block.col-lg-3
         figure
           img(data-aos="fade-up")(src="@/assets/curso/sintesis/3.png" alt="Imagen decorativo")

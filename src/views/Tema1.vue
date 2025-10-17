@@ -83,7 +83,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/8.png', alt='avion')
 
-          .tarjeta.p-4.h-100.d-flex.align-items-center(titulo="Fluvial / Lacustre")
+          .tarjeta.p-4.h-100.d-flex.align-items-center(titulo="Fluvial / lacustre")
             .row.align-items-center.justify-content-center
               .col-lg-5.col-xl-4
                 p Navegación por ríos y lagos. Es relevante en territorios con infraestructura hídrica, apoyando el comercio interno y regional.
@@ -91,7 +91,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/9.png', alt='muelle')
 
-          .tarjeta.p-4.h-100.d-flex.align-items-center(titulo="Multimodal / Intermodal")
+          .tarjeta.p-4.h-100.d-flex.align-items-center(titulo="Multimodal / intermodal")
             .row.align-items-center.justify-content-center
               .col-lg-5.col-xl-4
                 p Combina estratégicamente dos o más modos de transporte para optimizar eficiencia y trazabilidad en cadenas logísticas internacionales.
@@ -104,8 +104,8 @@
         .titulo-sexto.color-primario.mb-4
           h5 Figura 1.
           span Tipos de transporte
-        img.d-sm-none(data-aos="fade-up")(src='@/assets/curso/temas/tema1/11-mob.svg', alt='La figura presenta los principales tipos de transporte, marítimo, aéreo, terrestre y multimodal; destacando sus ventajas y limitaciones en términos de costos, velocidad, alcance, eficiencia y trazabilidad.')
-        img.d-none.d-sm-block(data-aos="fade-up")(src='@/assets/curso/temas/tema1/11.svg', alt='La figura presenta los principales tipos de transporte, marítimo, aéreo, terrestre y multimodal; destacando sus ventajas y limitaciones en términos de costos, velocidad, alcance, eficiencia y trazabilidad.')
+        img.d-sm-none(data-aos="fade-up")(src='@/assets/curso/temas/tema1/11-mob.svg', alt='En la figura 1 se describen los tipos de transporte.Transporte marítimo: eficiente para grandes volúmenes, pero con menor velocidad y alto costo.Transporte aéreo: ideal para entregas rápidas y de alto valor, aunque costoso.Transporte terrestre: flexible y económico, pero con limitaciones de alcance y velocidad.Transporte multimodal: combina eficiencia y trazabilidad con costos moderados')
+        img.d-none.d-sm-block(data-aos="fade-up")(src='@/assets/curso/temas/tema1/11.svg', alt='En la figura 1 se describen los tipos de transporte.Transporte marítimo: eficiente para grandes volúmenes, pero con menor velocidad y alto costo.Transporte aéreo: ideal para entregas rápidas y de alto valor, aunque costoso.Transporte terrestre: flexible y económico, pero con limitaciones de alcance y velocidad.Transporte multimodal: combina eficiencia y trazabilidad con costos moderados')
         figcaption <strong>Fuente:</strong> SENA, 2025.
 
     Separador
@@ -206,7 +206,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/31.svg", alt="alt").img100
             .col
-              h5.mb-1 Decretos y Resoluciones del Ministerio de Transporte 
+              h5.mb-1 Decretos y resoluciones del Ministerio de Transporte 
               p.mb-0 Regulan peso y dimensiones, habilitación de empresas, permisos, registro de carga y tarifas.
 
         .crd.crd--avatarHorizontal.py-3
@@ -251,15 +251,15 @@
           SlyderA(tipo="b")
             .row.z-2.justify-content-center.align-items-center
               .col-auto.col-lg-9
-                h5.mb-1 Convenio  CMR (Transporte por carretera)	
+                h5.mb-1 Convenio  CMR (transporte por carretera)	
                 p Define responsabilidades del transportista, carta de porte y reclamaciones en operaciones internacionales.                
             .row.z-2.justify-content-center.align-items-center
               .col-auto.col-lg-9
-                h5.mb-1 Convenio de Montreal (Transporte aéreo)
+                h5.mb-1 Convenio de Montreal (transporte aéreo)
                 p Regula responsabilidad por daños, retrasos y estandariza documentos como la guía aérea.  
             .row.z-2.justify-content-center.align-items-center
               .col-auto.col-lg-9
-                h5.mb-1 Reglas de La Haya-Visby / Hamburgo (marítimo)
+                h5.mb-1 Reglas de La Haya-Visby / Hamburgo (transporte marítimo)
                 p Establecen condiciones de responsabilidad y gestión documental en contratos marítimos.                
             .row.z-2.justify-content-center.align-items-center
               .col-auto.col-lg-9
@@ -326,7 +326,7 @@
       .col-xl-10
         .titulo-sexto.color-primario.mb-4
           h5 Figura 2.
-          span Tipos de transporte
+          span Políticas empresariales
         img.d-sm-none(data-aos="fade-down")(src='@/assets/curso/temas/tema1/29-mob.svg', alt='La figura presenta las principales políticas empresariales aplicadas a la trazabilidad: estrategias de gestión de flotas, formación del personal en tecnologías y procedimientos, adopción de sistemas tecnológicos como GPS y RFID, y políticas de calidad y seguridad orientadas a certificaciones e integridad de la cadena de suministro.')
         img.d-none.d-sm-block(data-aos="fade-down")(src='@/assets/curso/temas/tema1/29.svg', alt='La figura presenta las principales políticas empresariales aplicadas a la trazabilidad: estrategias de gestión de flotas, formación del personal en tecnologías y procedimientos, adopción de sistemas tecnológicos como GPS y RFID, y políticas de calidad y seguridad orientadas a certificaciones e integridad de la cadena de suministro.')
         figcaption <strong>Fuente:</strong> SENA, 2025.
